@@ -1,4 +1,4 @@
-# minio-start
+# minio-basic-services
 
 ####  封装了minio的文件操作，使用方式如下：
 1. 将本项目clone到本地
